@@ -1,6 +1,6 @@
 # Introduction
 
-This definitely not craigslist. Just an application where I can showcase items I have for sale.
+This is definitely not craigslist. Just an application where I can showcase items I have for sale.
 
 # Technologies Used
 
