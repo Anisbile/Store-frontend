@@ -4,15 +4,15 @@ This definitely not craigslist. Just an application where I can showcase items I
 
 # Technologies Used
 
--HTML
--CSS
--JavaScript
--Node.js
--Express.js
--React
--MongoDB
--Heroku 
--Netlify
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- React
+- MongoDB
+- Heroku 
+- Netlify
 
 # Getting Started
 
