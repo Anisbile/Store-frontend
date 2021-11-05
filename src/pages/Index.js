@@ -59,7 +59,7 @@ function Index(props) {
         <input
           type="text"
           value={newForm.img}
-          name="image"
+          name="img"
           placeholder="image URL"
           onChange={handleChange}
         />
@@ -80,7 +80,7 @@ function Index(props) {
         <input
           type="text"
           value={newForm.qty}
-          name="quantity"
+          name="qty"
           placeholder="quantity"
           onChange={handleChange}
         />
